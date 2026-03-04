@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class BankService {
+ public class bankService{
 
     private final Map<Integer, BankAccount> accounts = new HashMap<>();
 
